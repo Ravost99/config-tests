@@ -30,6 +30,7 @@ body:
     attributes:
       label: Versions
       description: What are your python and disnake versions? Write your Python version first.
+      placeholder: Python Version, Disnake Version
     validations:
       required: true
   - type: textarea

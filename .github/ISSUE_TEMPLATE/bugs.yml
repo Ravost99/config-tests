@@ -1,9 +1,9 @@
 name: Bug Report
-description: File a bug report
-title: "[Bug]: "
+description: Help! Something is wrong with the code.
+#title: "[Bug]: "
 labels: ["bug"]
 assignees:
-  - octocat
+  - Ravost99
 body:
   - type: markdown
     attributes:

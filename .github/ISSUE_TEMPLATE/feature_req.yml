@@ -5,9 +5,9 @@ assignees:
   - Ravost99
 body:
   - type: markdown
-    #attributes:
-      #value: |
-        #Thanks for taking the time to fill out this bug report!
+    attributes:
+      value: |
+        Thanks for submitting your new feature idea.
   - type: textarea
     id: describe
     attributes:
